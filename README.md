@@ -17,3 +17,5 @@
  ## Getting Started
   To run the app locally, you can clone the repository and open the index.html file in your web browser. Alternatively, you can try out the live demo here.
 
+ ## Display
+ ![image](https://user-images.githubusercontent.com/90535397/233539099-94d4f079-4bd9-4f73-ac81-42462d1b2906.png)
